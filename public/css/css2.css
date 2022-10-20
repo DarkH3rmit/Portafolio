@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font-family: 'Verdana', sans-serif;
+}
+h1 {
+    -webkit-text-stroke: 2.5px rgb(255, 255, 255);
+    color:  rgb(10, 0, 0);
+  font-size: 65px;
+  text-shadow: 5px 5px 10px rgb(255, 0, 0);
+}
+h2 {
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    color:  rgb(10, 0, 0);
+  font-size: 35px;
+  text-shadow: 5px 5px 10px rgb(255, 0, 0);
+}
